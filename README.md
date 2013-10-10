@@ -5,6 +5,11 @@ An ultra-simple HTML + JavaScript stopwatch app.
 
 **simple.html** as the name suggests a *simple* **stopwatch**.
 
+## Try it
+
+<iframe width="70%" height="250" src="http://jsfiddle.net/dn9sx76z/embedded/result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+
 ## Why?
 
 Helping people learn how to code requires a simple but functional example app.
