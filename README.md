@@ -5,8 +5,9 @@ An ultra-simple HTML + JavaScript Stopwatch
 
 ## Try it!
 
-<iframe width="70%" height="250" src="http://jsfiddle.net/dn9sx76z/embedded/result" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="70%" height="250" src="http://jsfiddle.net/dn9sx76z/embedded/result"></iframe>
 
+> JSFiddle: http://jsfiddle.net/dn9sx76z/embedded/result/
 
 ## Why?
 
@@ -59,7 +60,7 @@ Clicking/Pressing the **Clear** button simply clears/resets the current count.
 
 - - -
 
-***Note*** on "*re-inventing the wheel*" - if *anyone* ever asks you why 
+***Note*** on "*re-inventing the wheel*" - if *anyone* ever asks you why
 you are re-inventing the wheel, show them these two links:
 
 1.  http://www.kickstarter.com/projects/1537100752/shark-wheel-the-square-skateboarding-wheel-that-sh
