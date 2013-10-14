@@ -5,7 +5,8 @@ An ultra-simple HTML + JavaScript Stopwatch
 
 ## Try it!
 
-<iframe width="70%" height="250" src="http://jsfiddle.net/dn9sx76z/embedded/result"></iframe>
+<iframe width="70%" height="250" src="http://jsfiddle.net/dn9sx76z/embedded/result" frameborder="0" allowfullscreen="allowfullscreen"
+style="display:block; margin: 0 auto;"></iframe>
 
 > JSFiddle: http://jsfiddle.net/dn9sx76z/embedded/result/
 
@@ -14,15 +15,16 @@ An ultra-simple HTML + JavaScript Stopwatch
 Helping people learn how to code requires a *simple* but *functional* example.
 
 **Everyone** has experience using a stopwatch.
-Whether to time an experiment in science class,
+Whether to time an experiment in school (science class),
 cooking in the home or holding ones' breath under water,
-we can all immediately see the *use* of a stopwatch.
+we can all *immediately* see the *use* of a stopwatch.
 
 Yes, I *hear* you, "most mobile phones have stopwatches,
 why would anyone want to *build* their own?"  
 I agree, why "***re-invent the wheel***" if you already have a perfectly good one?
 
-Well, as you are about to discover we are not *re-inventing* anything (*yet*!) simply  *discovering* a few computer/web programming basics by building something we already know.
+Well, as you are about to discover we are not *re-inventing* anything (*yet*!) simply
+*discovering* a few computer/web programming basics by building something we already know.
 
 Once you have the basics mastered, I will show you how to unleash your imagination! :-)
 
