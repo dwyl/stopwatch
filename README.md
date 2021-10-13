@@ -1,14 +1,15 @@
-stopwatch
-=========
+<div align="center">
 
-An ultra-simple HTML + JavaScript Stopwatch
+# stopwatch
 
-## Try it!
+An ultra-simple `HTML` + `JavaScript` Stopwatch
 
-<iframe width="70%" height="250" src="http://jsfiddle.net/dn9sx76z/embedded/result" frameborder="0" allowfullscreen="allowfullscreen"
-style="display:block; margin: 0 auto;"></iframe>
+</div>
 
-> JSFiddle: http://jsfiddle.net/dn9sx76z/embedded/result/
+## Try it! https://dwyl.github.io/stopwatch/
+
+[![stopwatch-all-zeros](https://user-images.githubusercontent.com/194400/137154873-ed4db4ff-a906-48e4-9b0f-49b6210aa6c1.png)](https://dwyl.github.io/stopwatch/)
+
 
 ## Why?
 
@@ -26,35 +27,35 @@ I agree, why "***re-invent the wheel***" if you already have a perfectly good on
 Well, as you are about to discover we are not *re-inventing* anything (*yet*!) simply
 *discovering* a few computer/web programming basics by building something we already know.
 
-Once you have the basics mastered, I will show you how to unleash your imagination! :-)
+Once you have the basics mastered, you can unleash your imagination! :-)
 
 
 - - -
 
 ## How?
 
-**simple.html** as the name suggests a *simple* **stopwatch**  
-I have deliberately kept all the code in one file, but the HTML, CSS & JS would normally be split out.
+Open the **index.html** in your web browser and try the **_simple_ stopwatch**.
+Then read the code in the files to understand how it all works!
 
 
 ### User Interface
 
 
-![Stopwach Ready to Go](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/Stopwatch-go.png "Simple Stopwatch Ready to Go!")
+![Stopwach Ready to Go](https://user-images.githubusercontent.com/194400/137154873-ed4db4ff-a906-48e4-9b0f-49b6210aa6c1.png "Simple Stopwatch Ready to Go!")
 
 I tried to simplify the UI as much as possible so there is a single button/control for the stopwatch: **Go**
 (If you chose to edit the file you can change this to *Start* or what ever you prefer)
 
 - - -
 
-![Stopwach Running](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/Stopwatch-10hrs-running.png "Simple Stopwatch Running")
+![Stopwach Running](https://user-images.githubusercontent.com/194400/137156018-6eca686b-dd55-4248-9238-6be6efba25c7.png "Simple Stopwatch Running")
 
 While the stopwatch is running we only have one action: **Stop**  
 (We can/will add the *Lap* function in a later tutorial bur for now *KISS*!)
 
 - - -
 
-![Stopwach stopped](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/Stopwatch-10hrs-stopped.png "Simple Stopwatch Stopped")
+![Stopwach stopped](https://user-images.githubusercontent.com/194400/137155814-26648d0d-ffeb-4b03-bfed-3af78d4b4ffa.png "Simple Stopwatch Stopped")
 
 When the "Stop" button is pressed/clicked it stops the timer.  
 We then have two options: we can either **Go** again to keep counting *or* **Clear**.  
